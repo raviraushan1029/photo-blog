@@ -3,7 +3,7 @@ img {
   margin: calc(10% / 6);
 }
 
-nav:marquee {
+nav{
   font-size: 1.5em;
   text-transform: uppercase;
   border-bottom: 2px solid silver; /* it will display a thin line  */
@@ -11,3 +11,6 @@ nav:marquee {
   margin-left: calc(10% / 6);
   padding: 1.5em 0;
 }
+
+
+  
